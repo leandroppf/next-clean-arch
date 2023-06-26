@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "John Doe",
       "email": "johndoe@gmail.com",
       "avatar": "https://cdn.pixabay.com/photo/2014/04/02/14/11/male-306408_1280.png",
@@ -9,7 +9,7 @@
       "role": "admin"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Jane Doe",
       "email": "janedoe@gmail.com",
       "avatar": "https://cdn.pixabay.com/photo/2014/04/02/14/10/female-306407_1280.png",
@@ -17,7 +17,7 @@
       "role": "user"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "John Smith",
       "email": "johnsmith@gmail.com",
       "avatar": "https://cdn.pixabay.com/photo/2016/08/20/05/38/avatar-1606916_960_720.png",
